@@ -1,5 +1,6 @@
 import React from "react";
 import AddElements from "./AddElements";
+import '../Style.css';
 
 const Body = () => {
   return (

@@ -1,6 +1,7 @@
 import React from 'react';
 import AddButton from './AddButton';
 import AddStructure from './AddStructure';
+import '../Style.css';
 
 const AddSection = () => {
     <section>

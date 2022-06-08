@@ -2,6 +2,7 @@ import React from "react";
 import AddLabel from "./AddLabel";
 import AddInput from "./AddInput";
 import AddSpan from "./AddSpan";
+import '../Style.css';
 
 const AddStructure = () => {
   return (

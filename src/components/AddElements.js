@@ -1,6 +1,8 @@
 import React from "react";
 import AddDesign from "./AddDesign";
 import Elements from "./Elements";
+import '../Style.css';
+
 
 const AddElements = () => {
     return ( 
